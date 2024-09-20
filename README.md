@@ -90,7 +90,6 @@ I'm eager to connect with fellow professionals, mentors, and collaborators who s
 - Solved more than **2000+** problems across platforms.
 - Qualified for the **Facebook HackerCup 2022** and ranked in the** top 1%** around the world wide
 - Secured **2 Gold medals** in the National-level **Karate championship** and **10+ medals** in the state-level championship.
-- Accomplished chess player with FIDE rating of **2200** achieved at age **16**, boasting championship trophies. | Chess.com Bullet Rating: **2600+**
 
 ## 🛠️ Skills
 
