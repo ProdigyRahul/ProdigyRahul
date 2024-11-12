@@ -271,6 +271,63 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<details>
+<summary><h2>😄 Developer Life in GIFs</h2></summary>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center">
+         <img src="https://i.giphy.com/Dh5q0sShxgp13DwrvG.webp" width="280"/>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGExbzY2Y2NpMjY4ZGx5aTFscm04amRnbXM1enJ0ZXNmeTR3a3d5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pufOOG2cplDtfyQXL1/giphy-downsized-large.gif" width="280"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <img src="https://i.giphy.com/HLB0nLA36GCCo6JuB5.webp" width="280"/>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFldzFqY3Y2b2ExMDduMTlldm9laW5mdW4wdGsxYmZkNmx2Nnk5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.webp" width="280"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29jbThhZzhzeGhpZmlsNjZ6dnQwbTZxM3pqZmxicWN4Njg1cWk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzmbXFDiRbEEk1vCtP/giphy.gif" width="280"/>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3djbHlwOXljang2b2FncnZmOWRtc2x1M2o0Y2Z4MzB2anpzNHJwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="280"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div align="center">
+          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RrdWNrODJkbmEyN2E4cm5jeHh6MTVsNHpwYzVtMmJ1aTY5dXZhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wDcmx1GNDwp1SGvldp/giphy.gif" width="280"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+</details>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 ## 📫 Let's Connect!
 
 <div align="center">
