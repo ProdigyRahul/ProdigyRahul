@@ -24,16 +24,16 @@
   <a href="https://www.hackerrank.com/22CS042_RAHUL">
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
   </a>
-  <a href="https://github.com/bytebrewer1?tab=followers">
+  <a href="https://github.com/prodigyRahul?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bytebrewer1?color=yellow&logo=github">
   </a>
   <a href="https://medium.com/@rahulmistry032">
     <img alt="Medium" src="https://img.shields.io/badge/medium-43+-green?color=green&logo=medium">
   </a>
   <a href="https://www.linkedin.com/in/mistryrahul">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.1K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-3.1K-blue?color=blue&logo=linkedin">
   </a>
-  <a href="https://404dev.in">
+  <a href="https://rahulmistry.in">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio_Views-3000-violet?color=indigo&logo=readme">
   </a>
   <a href="https://www.instagram.com/_rahulmistry">
