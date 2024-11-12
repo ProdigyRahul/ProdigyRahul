@@ -1,25 +1,21 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Rahul Mistry</b></h1>
-<h2 align="center"><b>I'm Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 from India.</b></h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Rahul+Mistry;Full+Stack+Developer;Problem+Solving+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%ProdigyRahul%2FProdigyRahul&label=VISITORS&countColor=%23263759&labelStyle=upper)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-<a href="https://www.linkedin.com/in/mistryrahul">
-</a>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<p align="left">
-  <a href="https://github.com/bytebrewer1/bytebrewer1">
+<h3 align="center">Building scalable solutions with code, coffee, and creativity ☕</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Languages-Hindi%20%26%20English-brightgreen" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/prodigyRahul/prodigyRahul">
     <img src="https://komarev.com/ghpvc/?username=bytebrewer1&color=red" alt="profile views" />
   </a>
   <a href="https://stackoverflow.com">
@@ -43,140 +39,271 @@
   <a href="https://www.instagram.com/_rahulmistry">
     <img alt="Instagram Followers" src="https://img.shields.io/badge/friends-600-blue?color=violet&logo=instagram">
   </a>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">💫 About Me</h3>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="250">
+      </div>
+      <ul>
+        <li>🔭 I'm currently working on <b>Scalable Cloud Solutions</b></li>
+        <li>🌱 I'm currently exploring <b>Advanced System Design & AI</b></li>
+        <li>💡 Building the future, one commit at a time</li>
+        <li>🎯 Goal: Impact millions through technology</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌟 Fun Facts</h3>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="250">
+      </div>
+      <ul>
+        <li>🥋 2x National Karate Gold Medalist</li>
+        <li>☕ Professional Bug Creator (and Solver)</li>
+        <li>🎮 Competitive Programming Enthusiast</li>
+        <li>📚 Forever Student of Technology</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 🏆 Achievements and Milestones
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Competitive Programming</h3>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+      </div>
+      <ul>
+        <li>🌟 CodeForces: Specialist (Peak: 1400)</li>
+        <li>⭐ CodeChef: 4-Star (1857)</li>
+        <li>🏆 Top 1% in Facebook HackerCup 2022</li>
+        <li>🎯 Solved 2000+ DSA Problems</li>
+        <li>🏅 Expert on GeeksforGeeks</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">Professional Journey</h3>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+      </div>
+      <ul>
+        <li>🚀 Founder of 404DEV (Since 2019)</li>
+        <li>🌱 Youngest Attendee at CEBIT 2018</li>
+        <li>💻 Full Stack Developer with 3+ Years Experience</li>
+        <li>🎓 Computer Science Enthusiast</li>
+        <li>👨‍💻 Open Source Contributor</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 🛠️ Technology Stack
+
+<details>
+<summary><b>Expand to view my tech arsenal!</b></summary>
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,ruby,php,cpp,cs,go,kotlin" />
 </p>
 
-## 🔗 Links
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,sass,bootstrap,materialui" />
+</p>
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://rahulmistry.in)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](#)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mistryrahul/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ProdigyRahul)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulmistry032)
-[![dev](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rahulmistry)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rahulmistry.sde@gmail.com)
+### 🔧 Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,spring,laravel" />
+</p>
 
-## 🚀 About Me
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,azure,firebase,docker,kubernetes" />
+</p>
 
-I am a passionate 2nd Year Student on a dedicated journey to become a versatile Programmer. My unwavering goal is to master every programming language and emerge as a fluent communicator of innovation. Throughout my academic path, I've embraced the art of connecting dots. With boundless enthusiasm, I thrive on bridging gaps between different disciplines, fostering collaboration among diverse teams, and harmonizing applications across industries.
-Beyond my academic pursuits, I've demonstrated my prowess through Industry-level projects, translating concepts into tangible solutions. This showcases my commitment to delivering value in professional settings.
-Presently, I'm engrossed in refining my skills in C# and Flutter, complementing my expertise in the MERN Stack. This specialization empowers me to craft comprehensive web applications that merge functionality and aesthetics seamlessly.
-One hallmark of my professional identity is my ability to fluidly navigate various domains, crafting high-performing business solutions that transcend conventional boundaries. This agility enables me to envision and execute impactful resolutions across industries.
-I take pride in being the youngest attendee at CEBIT 2018 in Germany, a testament to my early dedication to intellectual growth and global engagement.
-Adding to my journey, I am the founder of 404DEV since 2019, a platform that embodies my commitment to fostering technological excellence.
-I'm eager to connect with fellow professionals, mentors, and collaborators who share my passion for robust software development and computational innovation.
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,vscode,postman,netlify,vercel" />
+</p>
 
-<ul>
-<li/>I like to use my skills to support my team by automating existing manual processes or introducing new ones.</li>
-<li/>I enjoy constantly improving my knowledge base by exploring new tools or collaborating with other developers. This often facilitates ideas and discussions that have a significant impact on my team’s objectives.</li>
-<li/>I am a curiosity driven individual and a fast learner.</li>
-<li/>Applying my engineering skills to solve real life problems excites me.</li>
-</ul>
+</details>
 
-## My Stats
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ProdigyRahul&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+## 📊 GitHub Analytics
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ProdigyRahul&theme=jolly&date_format=j%20M%5B%20Y%5D)
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ProdigyRahul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ProdigyRahul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyRahul&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-trophy.vercel.app/?username=ProdigyRahul&theme=discord&row=2&column=3&hide_border=true" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyRahul&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProdigyRahul&theme=tokyo-night&hide_border=true" width="90%">
+</div>
 
-![Github Trophy](https://github-trophies.vercel.app/?username=ProdigyRahul&theme=discord)
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-## 🏅 Achievements
+## 🎵 Vibing to
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6i7m5gb7t2xhxick44s70juyk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-- CodeForces: **Specialist** | Peak Rating: **1400** | Accomplished Global Rank **1051** in Codeforces Round 755 (Div 2) out
-  of 10,000+ participants.
-- CodeChef **4-Star** | Rating: **1857** | CodingNinja: **Level 8**
-- Solved more than **2000+** problems across platforms.
-- Qualified for the **Facebook HackerCup 2022** and ranked in the** top 1%** around the world wide
-- Secured **2 Gold medals** in the National-level **Karate championship** and **10+ medals** in the state-level championship.
+</div>
 
-## 🛠️ Skills
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-### Languages
+## 🎯 Current Focus
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ruby](https://img.shields.io/badge/Ruby-A10E3B?style=for-the-badge&logo=ruby&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/sql-62B962?style=for-the-badge&logo=sql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-035375?style=for-the-badge&logo=C%20sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5BA8C9?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-851773?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-317823?style=for-the-badge&logo=C%20&logoColor=white)
-![C++](https://img.shields.io/badge/C++-114836?style=for-the-badge&logo=c++&logoColor=white)
-![PHP](https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-789CAB?style=for-the-badge&logo=r&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-DD861F?style=for-the-badge&logo=go&logoColor=white)
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" />
+        <h4>🔥 Learning & Growing</h4>
+      </div>
+      <ul align="left">
+        🎓 Advanced System Design Patterns<br>
+        ☁️ Cloud-Native Architecture<br>
+        🤖 AI/ML Integration in Web Apps<br>
+        📊 Data Engineering at Scale<br>
+        🔐 Advanced Security Practices
+      </ul>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" />
+        <h4>📚 Current Reads</h4>
+      </div>
+      <ul align="left">
+        📖 Clean Architecture by Robert C Martin<br>
+        📘 System Design Interview<br>
+        📗 Designing Data-Intensive Applications<br>
+        📕 The Psychology of Money<br>
+        📙 Zero to One by Peter Thiel
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+        <h4>🚀 Building & Shipping</h4>
+      </div>
+      <ul align="left">
+        ⚡ High-Performance Microservices<br>
+        🛠️ Developer Productivity Tools<br>
+        🌐 Open Source Projects<br>
+        📱 Cross-Platform Mobile Apps<br>
+        🎮 Web3 Gaming Platform
+      </ul>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" />
+        <h4>🤝 Contributing To</h4>
+      </div>
+      <ul align="left">
+        💫 Major Open Source Projects<br>
+        👥 Tech Community Growth<br>
+        📝 Technical Blog Posts<br>
+        🎤 Tech Talks & Workshops<br>
+        🌱 Mentoring Juniors
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-### Front-End Development
+## 📫 Let's Connect!
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![angular](https://img.shields.io/badge/Angular-593D88?style=for-the-badge&logo=angular&logoColor=white)
-![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![wordpress](https://img.shields.io/badge/Wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=FFFFFF)
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<div align="center">
+  <a href="https://rahulmistry.in">
+    <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mistryrahul/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ProdigyRahul">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@rahulmistry032">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://dev.to/rahulmistry">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdot.to&logoColor=white" />
+  </a>
+  <a href="mailto:rahulmistry.sde@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-### Back-End Development
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-![django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-4EA94B?style=for-the-badge&logo=flask&logoColor=white)
-![rubyonrails](https://img.shields.io/badge/Ruby_on_Rails-A10E3B?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![expressjs](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white)
-![gunicorn](https://img.shields.io/badge/Gunicorn-ff3399?style=for-the-badge&logo=graphql&logoColor=white)
-![hadoop](https://img.shields.io/badge/Hadoop-cc9900?style=for-the-badge&logo=hadoop&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
-![redis](https://img.shields.io/badge/Redis-cc0000?style=for-the-badge&logo=redis&logoColor=white)
-![celery](https://img.shields.io/badge/Celery-66ff66?style=for-the-badge&logo=celery&logoColor=white)
+## 💭 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-### Mobile App Development
-
-![android](https://img.shields.io/badge/Android-66ff66?style=for-the-badge&logo=android&logoColor=white)
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-3366cc?style=for-the-badge&logo=dart&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-cc0000?style=for-the-badge&logo=kotlin&logoColor=white)
-![react native](https://img.shields.io/badge/React%20Native-2C2E3B?style=for-the-badge&logo=react&logoColor=white)
-
-### Database
-
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-cc6600?style=for-the-badge&logo=mysql&logoColor=white)
-![oracle](https://img.shields.io/badge/Oracle-990000?style=for-the-badge&logo=oracle&logoColor=white)
-![mssql](https://img.shields.io/badge/MS_SQL-999966?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![neo4j](https://img.shields.io/badge/Neo4j-1BACEE?style=for-the-badge&logo=neo4j&logoColor=white)
-![hive](https://img.shields.io/badge/Hive-cc9900?style=for-the-badge&logo=hive&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### DevOps
-
-![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whit)
-![docker](https://img.shields.io/badge/Docker-006699?style=for-the-badge&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/Kubernetes-0066cc?style=for-the-badge&logo=kubernetes&logoColor=white)
-![jenkins](https://img.shields.io/badge/Jenkins-cc6600?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Backend as a Service (BaaS)
-
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-### Design Tools
-
-![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![blender](https://img.shields.io/badge/Blender-ff9900?style=for-the-badge&logo=blender&logoColor=white)
-![photoshop](https://img.shields.io/badge/Photoshop-3366cc?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-### Testing
-
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cucumber](https://img.shields.io/badge/Cucmber-4EA94B?style=for-the-badge&logo=cucumber&logoColor=white)
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <h3>🤝 Let's build something amazing together!</h3>
+  <p>Open for collaborations and interesting projects</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
