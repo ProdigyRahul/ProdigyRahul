@@ -113,7 +113,7 @@
         <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
       </div>
       <ul>
-        <li>🚀 Founder of 404DEV (Since 2019)</li>
+        <li>🚀 Founded of 404DEV (2019 - 2023)</li>
         <li>🌱 Youngest Attendee at CEBIT 2018</li>
         <li>💻 Full Stack Developer with 3+ Years Experience</li>
         <li>🎓 Computer Science Enthusiast</li>
