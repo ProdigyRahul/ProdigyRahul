@@ -129,7 +129,7 @@
 
 ## 🛠️ Technology Stack
 
-<details>
+<details open>
 <summary><b>Expand to view my tech arsenal!</b></summary>
 
 ### 💻 Programming Languages
@@ -171,17 +171,17 @@
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=ProdigyRahul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ProdigyRahul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
+<td width="50%">
+    <img src="https://nirzak-streak-stats.vercel.app?user=prodigyRahul&theme=tokyonight" alt="GitHub Streak" />
+</td>
     </tr>
     <tr>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyRahul&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
       </td>
-      <td width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=ProdigyRahul&theme=discord&row=2&column=3&hide_border=true" alt="GitHub Trophies" />
-      </td>
+    <td width="50%">
+    <img src="https://nirzak-streak-stats.vercel.app?user=prodigyRahul&theme=tokyonight&mode=weekly" alt="GitHub Trophies" />
+</td>
     </tr>
   </table>
 </div>
