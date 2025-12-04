@@ -25,7 +25,7 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
   </a>
   <a href="https://github.com/prodigyRahul?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/bytebrewer1?color=yellow&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ProdigyRahul?color=yellow&logo=github">
   </a>
   <a href="https://medium.com/@rahulmistry032">
     <img alt="Medium" src="https://img.shields.io/badge/medium-43+-green?color=green&logo=medium">
@@ -48,8 +48,6 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxuaGRlN2RtYjQxNXZwcGZlMndrOTBpZnZvOGhxc2Fxem16MDh3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif" width="300" alt="coding gif"/>
 </div>
-
-
 
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -133,26 +131,31 @@
 <summary><b>Expand to view my tech arsenal!</b></summary>
 
 ### 💻 Programming Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,ruby,php,cpp,cs,go,kotlin" />
 </p>
 
 ### 🎨 Frontend Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,next,vue,angular,tailwind,sass,bootstrap,materialui" />
 </p>
 
 ### 🔧 Backend Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,spring,laravel" />
 </p>
 
 ### ☁️ Cloud & DevOps
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,azure,firebase,docker,kubernetes" />
 </p>
 
 ### 🛠️ Tools & Platforms
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,vscode,postman,netlify,vercel" />
 </p>
@@ -169,7 +172,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ProdigyRahul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProdigyRahul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
 <td width="50%">
     <img src="https://nirzak-streak-stats.vercel.app?user=prodigyRahul&theme=tokyonight" alt="GitHub Streak" />
@@ -177,7 +180,7 @@
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyRahul&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProdigyRahul&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
       </td>
     <td width="50%">
     <img src="https://nirzak-streak-stats.vercel.app?user=prodigyRahul&theme=tokyonight&mode=weekly" alt="GitHub Trophies" />
@@ -187,7 +190,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProdigyRahul&theme=tokyo-night&hide_border=true" width="90%">
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=ProdigyRahul&theme=tokyo-night&hide_border=true" width="90%">
 </div>
 
 <div align="center">
@@ -345,6 +348,7 @@
 </div>
 
 ## 💭 Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
