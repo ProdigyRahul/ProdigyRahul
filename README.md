@@ -49,9 +49,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyRahul&layout=compact&hide_border=true&theme=default&langs_count=8" height="165" alt="top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProdigyRahul&bg_color=ffffff&color=24292f&line=0969da&point=1f6feb&area=true&hide_border=true" alt="activity graph" />
 </p>
