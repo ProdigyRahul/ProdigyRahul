@@ -25,8 +25,8 @@
 - **[edgely](https://edgelyai.com)** - intelligent meeting assistant with real-time transcription and ai-powered summaries
 - **[flowdex](https://flowdex.vercel.app)** - ai project blueprint generator for cursor, windsurf, and claude code
 - **[salhakar](https://salhakar.com)** - ai-powered legal research platform for lawyers
-- **[instapitch](https://instapitch.in)** - ai-powered pitch deck and presentation generator
-- **[keyvault](https://github.com/ProdigyRahul/keyvault)** - zero-knowledge api key management for teams
+- **[instapitch](https://github.com/ProdigyRahul/instapitch/)** - ai-powered pitch deck and presentation generator
+- **[keyvault](https://keyvault.sh)** - zero-knowledge api key management for teams
 - **[clearbreath](https://github.com/ProdigyRahul/clearbreath)** - free, open-source pranayama and breathing app
 - **[onepay](https://github.com/ProdigyRahul/onepay)** - fintech app simplifying payments and financial freedom
 - **[interview-genie](https://github.com/ProdigyRahul/Interview-Genie)** - ai-powered interview preparation and coaching platform
