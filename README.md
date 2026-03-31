@@ -44,7 +44,7 @@
 ## github analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProdigyRahul&show_icons=true&hide_border=true&rank_icon=github&count_private=true&theme=default" height="165" alt="github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProdigyRahul&theme=default" height="165" alt="github stats" />
   <img src="https://streak-stats.demolab.com?user=ProdigyRahul&hide_border=true&theme=default" height="165" alt="github streak" />
 </p>
 
