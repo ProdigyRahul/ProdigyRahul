@@ -3,8 +3,8 @@
 <p align="center">i am just a tech</p>
 
 <p align="center">
-  <a href="https://rahulmistry.in">portfolio</a> &nbsp;·&nbsp;
-  <a href="https://rahul.edgelyai.com">portfolio 2</a> &nbsp;·&nbsp;
+  <a href="https://rahul.edgelyai.com">portfolio</a> &nbsp;·&nbsp;
+  <a href="https://rahulmistry.in">portfolio 2</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/mistryrahul/">linkedin</a> &nbsp;·&nbsp;
   <a href="https://github.com/ProdigyRahul">github</a> &nbsp;·&nbsp;
   <a href="https://medium.com/@rahulmistry032">medium</a> &nbsp;·&nbsp;
